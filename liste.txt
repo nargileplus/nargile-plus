@@ -88,10 +88,6 @@ Jungle mix
 Trimofs 
 
 Coke 3
-Tumbaki 250
-
-Mama banana
-Trıple grape flash 10
 Kiloluk ithaller 
 
 Jibiar 
@@ -122,6 +118,10 @@ Af
 Nane 10
 Limon nane 3
 Sakız nane 1
+Tumbaki 250
+
+Mama banana
+Trıple grape flash 10
 Bonche 
 
 Basil 1
