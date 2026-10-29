@@ -1,73 +1,8 @@
-OSs 
-
-54 2
-İce kaktüs 4
-High noon 3
-Starchild 2
-Quen of desert 3
-Afrika’n Quen 7
-Afrika’n king 7
-Disco 5
-Franklin 1
-Musthave 
-
-Lemon pie 
-Violet 
-Coco mint 1
-Pineaple rings 3
-İce cream 4
-Sweet melon 4
-Cola 4
-Pearl Pool 1
-Manterra 
-
-Pistacho 
-Cooling 
-Newyear 
-Blackberry 
-Watermelon corn 
-Vanilya 10
-Pineaple 
-Passion 
-Pinkman 
-Cappicino 
-Blueberry 
-Strawberry lyche 
-Momentos 
-Banana bro 
-Meganuts 
-Strwabery
-Jibiar 
-
-
-Cochella 2
-Master mix 1
-Kaymak 4
-Dragon berry 3
-Cinnamon Gum 1
-Blue heaven 2
-Happy mango 2
-Habibi 4
-Mint gold 2
-İce Double melon 7
-Greyfurt 1
-Lime grape 3
-İce americano 1
-Cigar 1
-Sahlep 2
-Happy Coffe 5
-Passion fruit mint 3
-Orange 1
-Escobar 1
-İce cream banana 1
-Boombastic 3
-Blue strawberry 2
-Strawberry 1
 Lirra
 
 Strawella
 Sakızlı muhallebi 
-Pişmiş şeftali 5
+Pişmiş şeftali 
 Cappicino 
 Marbella 
 Mint 
@@ -75,11 +10,17 @@ Bahreyn Apple
 Çift elma 
 Vivident 
 Rasberry 
-Lemon 2
+Lemon 
 Mastik 
 Plombir 
 Moskow 
-Lady 2 kg
+Üzüm nane
+Çikolata browni
+Afrıdit
+Lady
+Biskuvi
+Love
+Domınıc
 Holster 
 
 
@@ -98,16 +39,17 @@ Walnuts
 Double Apple 
 Plum kashmur
 Black man
-Waterlemon 3
 Rasporn 
 Forrest bery 
 Cherry 
-Waffle rush 
+Waffle rush 2
 Flood 
 Peanuts 
 Grape tea
 Straw nana
 Velvet mango
+Kıckers
+Cookıe 5
 Gixom 
 
 Mint 
@@ -120,7 +62,6 @@ Orange mango
 Lemon cake 
 Lemon 1
 Cola 
-Grape berry 
 İzmir night 
 Pişmiş 
 Marbela 1
@@ -132,139 +73,85 @@ Infınıety
 Strawberry plombır 1
 Spectrum 100 
 
-Crystal 3
+Crystal 2
 Green pop 1
-Cowberry lemonade 2
 Sunny melon 4
-Granny Apple 3
-Greenwich 9
+Granny Apple 2
+Greenwich 5
+Cookıe mılk 
 
 
 200gr 
 
 Jungle mix
 
-Deus 250 
-
-Red 
-
-
 Trimofs 
-
 
 Coke 3
 Tumbaki 250
 
 Mama banana
-Trıple grape flash
+Trıple grape flash 10
 Kiloluk ithaller 
 
 Jibiar 
 
-İnferno 
-Dejavu 1
-Plombir 
+İnferno 20
+Plombir 20
+Pişmiş 20
+Enjoy 15
+Turkısh mastıc 20
 
 Adalya 
 Havana 2
-Love 1
-İzmir romantik 
+Merlin monroe 1
+İzmir romantik 10
 Bakü 2
 
 Şerbetli 
 Üzüm 4
-Pişmiş şeftali 
+Pişmiş şeftali 13
 Yaban mersini 2
+Yeşil nane2
+Bodrum mandalina 3
+
 
 Af 
-Kapi 
-Çift elma 
-Nane 
+
+Çift elma 100
+Nane 10
 Limon nane 3
 Sakız nane 1
-
-Nakla 
-
-Şeftali  2
 Bonche 
 
 Basil 1
 Gınger 2
-Olıve 5
-Lyche 2
+Olıve 4
+Lyche 1
 Bluebery 3
 Pomegranete 1
 Lavender 1
 Pear 1
 Prınes 1
 Clove 1
-Pls 500
-
-Karpuz 
-Nane kıröızı 5
-Üzüm sarı
-Mango
-Limon anne 5
-Şeftali
-Vıvıdent
-Çilek
-portakal
-Yaban
-master mıx
-Bahreyn elma
-Üzüm nane 5
-Pınkman
-Üzüm kırmızı
-Redmıx
-Biskuvi
-Cookıe mılk
-Karamel 5
-Duamond
-Pipo
-Berlin 4
-Çilek yogurt 7
-Merlin 5
-Excalıbur 7
-Nesquıck 
-Baja blue 7
-Plomber 3
-Limon
-Domınıc
-Kavun
-Rısng sun
-Böğürtlen
-Mandalina
-Pişmiş
-Moscow
-Love
-Dejavu
-Leyla
-Ice
-Safarı sun
-Honoluöu
-Madonna
-Loadıng
-Mastik
 Blackburn 100
 
 Etalon melon 1
-Shock currant Shock 2
+Shock currant Shock 1
 Something berry 2
 Gosseberry Shock 2
 Cane mint 1
-Blueberry 5
-Barberry Shock 2
-Famous Apple 5
-Rasberries 2 
+Blueberry 4
+Barberry Shock 1
+Famous Apple 4
+Rasberries 1
 
 
 200gr 
 
 Ananas Shock 
-Haribon 4
 Rasberries 4
-Chupa graper 1
-Epic yoğurt 4
+Epic yoğurt 1
 
 
 
@@ -272,6 +159,76 @@ Satyr 100
 
 Witch 1
 Lamba 1
-Anton ovka 1
-Bombyao 1
+Anton ovka 
 Pistacho hunter 1
+*Jibiar 50 gram*
+
+Kaymak 2
+Dragon berry 8
+Habibi 4
+İce Double melon 4
+Master mıx 10
+Escobar 3
+Paradıse 1
+Italy 6
+Afrıcan kıng 3
+Mambo passıon 12
+Orange 5
+Bpmbastıx 3
+Green mız 3
+Fanda exotıc 1
+Plombır lemon 4
+Sweet waterlemon 2
+Freezone
+
+Mamacıta 
+Two apples 
+Dream
+Blye 
+Mezzo
+Jordan peach 
+Mia mia 
+Crema de mante
+Turkısh bubbie 
+Harley quuen 
+Tuttu frutti 
+Marbella
+Baby love
+Musthave 
+
+Lemon pie 
+Violet 
+Coco mint 1
+Pineaple rings 3
+İce cream 2
+Sweet melon 1
+Cola 5
+Pearl pool 1
+Pınkman 10
+OSs 
+
+54 2
+İce kaktüs 4
+High noon 3
+Starchild 1
+Quen of desert 3
+Afrika’n king 7
+Disco 5
+Franklin 1
+Manterra 
+
+Pistacho 
+Cooling 
+Newyear 
+Blackberry 
+Watermelon corn 
+Pineaple 
+Passion 
+Pinkman 
+Cappicino 
+Blueberry 
+Strawberry lyche 
+Momentos 
+Banana bro 
+Meganuts 
+Strwabery
